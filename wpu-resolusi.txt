@@ -1,6 +1,6 @@
 WPU Resolusi
 - belajar ngoprek setiap hari selama 2 jam
--konsisten membuat program
+-belajar laravel dasar
 -menjual program yang sudah di buat
 -ingin melamar pekerjaan di perusahaan ternama
 -ingin membuat start up
